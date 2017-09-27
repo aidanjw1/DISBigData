@@ -1,0 +1,31 @@
+{{lead too short|date=February 2016}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Victorius
+|real_name=Victor Conrad
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Astonishing Tales]] #18'' (Jun 1973)
+|creators=[[Mike Friedrich]] and [[Dan Adkins]]
+|alliances=[[Advanced Idea Mechanics|A.I.M.]]<br/>Cult of Entropy
+|aliases=
+|powers=Peak physical abilities due to the super-soldier serum, trained various forms of combat
+}} 
+ 
+'''Victorius''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Victor Conrad was a scientist working for [[Advanced Idea Mechanics|A.I.M.]] who succeeded in duplicating the Super-Soldier Serum which had transformed Steve Rogers into [[Captain America]].  Conrad drank the serum himself and became a physically perfect human being.  Naming himself Victorius, he first attempted to take over A.I.M.{{issue|date=December 2011}} Failing to do so, he later adopted the death-worshipping philosophy of the Cult of Entropists and made himself the Cult's leader.{{issue|date=December 2011}}  He stole the [[Cosmic Cube]] and used it to create [[Jude the Entropic Man]] as a means of spreading destruction.{{issue|date=December 2011}}  Jude rebelled against Victorius, and when Jude, Victorius, the Cube, and the [[Man-Thing]] all came into physical contact with each other, Jude and Victorius were transformed into a form of radiant crystal.<ref>''Marvel Two-in-One #43''</ref>
+
+Years later, [[Andrew Forson]] revealed that [[Mockingbird (Marvel Comics)|Mockingbird]] was secretly working for Forson at the time, and that he used Mockingbird to "get Victorious out of the way" so that he could take over the Cult of Entropy.<ref>''Secret Avengers'' #14 (March 2014)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/victoriu.htm|Victorius}}
+
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,53 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|publisher=[[Marvel Comics]] 
+|debut=[[Eternals (comics)|Eternals]] #14
+|creators= [[Jack Kirby]] (writer - artist)
+|character_name=Hulk Robot
+|real_name=Hulk Robot
+|alliances=[[The Assembly of Evil|Assembly of Evil]]<br/>[[Intelligencia (comics)|Intelligencia]]
+|aliases=
+|powers=Superhuman strength, speed, stamina, and durability
+}}
+
+The '''Hulk Robot''' is a fictional [[robot]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is modeled after the [[Hulk (comics)|Hulk]].
+
+==Fictional character biography==
+Rusty and Arthur are two Maryland Institute of Technology students who constructed the Hulk Robot to be the mascot for their school's all-star game, but Dr. Timothy Ryan considered it dangerous and wouldn't allow it. It was brought to life by cosmic energies released by the [[Eternals (comics)|Eternals]] from [[Olympia (comics)|Olympia]] when they emerged from the [[Uni-Mind]]. The energies granted the Hulk Robot sentience and increased its strength to rival the Hulk. It broke out of the lab and went on a rampage. When the National Guard couldn't stop the Hulk Robot, three Eternals members ([[Ikaris]], [[Makkari (comics)|Makkari]], and [[Sersi]]) were called in.<ref>''Eternals'' #14</ref> Both the Eternals and National Guard were losing until [[Zuras]] entered the fray.<ref>''Eternals'' #15</ref> When it charged Zuras, cosmic energies leaked and it was rendered inert.<ref>''Eternals'' #16</ref>
+
+Later on, [[Doctor Doom]] found the Hulk Robot and dismantled and rebuilt it to serve him.<ref name="Incredible Hulk #350">''Incredible Hulk'' #350</ref> He sent it to fight the [[Thing (comics)|Thing]] who thought it was the real Hulk after taking out the Grey Hulk.<ref>''Fantastic Four'' #320</ref> When Thing discovered it wasn't the real Hulk during battle, he tore it apart.<ref name="Incredible Hulk #350"/>
+
+During the ''[[Acts of Vengeance]]'' event, Doctor Doom gave [[Jester (Marvel Comics)|Jester]] II the Hulk Robot's parts and Jester rebuilt it (with the addition of humorous weapons in its arsenal) as a member of the [[The Assembly of Evil|Assembly of Evil]]. During the [[Avengers (comics)|Avengers]]' press conference, the Hulk Robot attacked [[She-Hulk]] and had her on the ropes until [[Wasp (comics)|Wasp]] attacked the Jester's remote control causing the Hulk Robot to go haywire. She-Hulk destroyed it by flinging it into an energy blast fired by [[Fenris (comics)|Fenris]].<ref>''[[Cloak and Dagger (comics)|Cloak and Dagger]]'' #8-9</ref>
+
+The Hulk Robot (or the non-operating version) was seen in a museum the Eternals kept in Olympia which held reminders of foes and their weapons. Zuras displayed the robot to Joey Eliot.<ref>''Eternals'' vol. 4 #3</ref>
+
+During the ''[[Fall of the Hulks]]'' storyline, [[Leader (comics)|the Leader]] (alongside the other [[Intelligencia (comics)|Intelligencia]] members) managed to obtain the Hulk Robot. The Leader used it to attack former member Doctor Doom when [[Skaar (character)|Skaar]] attacks. Doctor Doom fell victim to the Hulk Robot's "Poison Pill" when Bruce Banner arrived. The Leader then had the Hulk Robot carry away Doctor Doom.<ref>''Incredible Hulk'' #606</ref>
+
+Hulk Robot later helped [[MODOK]] and the [[Mad Thinker]]'s Gammadroid subdue [[Thunderbolt Ross|Red Hulk]].<ref>''Hulk'' vol. 2 #21</ref>
+
+Red Hulk later drains the Gamma Energy from the Hulk Robot.<ref>''Hulk'' Vol. 2. #23</ref>
+
+==Other versions==
+
+===Superman VS Hulk===
+In a Marvel/DC crossover featuring [[Superman]] confronting the Hulk, [[Lex Luthor]] created another robot version of the Hulk to frame the Hulk for the capture of [[Betty Ross]]. After the Hulk attacked the robot, Superman was tricked into fighting the Green Goliath, resulting in Luthor attempting to kill them both with Bruce Banner's gamma gun - unaware or unconcerned that the gun could kill everybody within five hundred miles - until the two heroes put aside their differences and destroyed the gun.
+
+==In other media==
+
+===Television===
+* The Hulk Robot appeared in the ''[[Spider-Man and his Amazing Friends]]'' episode "Spidey Goes Hollywood." This version was created by [[Mysterio]] to destroy Spider-Man in a movie being made by Sam Blockbuster, but it got destroyed when the real Hulk interfered.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/hulkrobot.htm|Hulk Robot}}
+* {{comicbookdb|type=character|id=1564|title=Hulk Robot}}
+
+{{Hulk}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
