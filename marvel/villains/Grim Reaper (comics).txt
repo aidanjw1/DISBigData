@@ -2,7 +2,7 @@
 {{lead too short|date=January 2014}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image = Grimreapermu0.png
-| caption = The Grim Reaper vs the Avengers,<br> art by [[George PÃ©rez]]
+| caption = The Grim Reaper vs the Avengers,<br> art by [[George Pérez]]
 | character_name = Grim Reaper
 | real_name = Eric Williams
 | publisher = [[Marvel Comics]]
