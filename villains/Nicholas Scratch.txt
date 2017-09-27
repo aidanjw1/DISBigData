@@ -5,7 +5,7 @@
 | real_name = 
 | publisher = [[Marvel Comics]]
 | debut = ''[[Fantastic Four]]'' #185 (August 1977)
-| creators = [[Len Wein]] (writer), [[George PÃ©rez]] (artist)
+| creators = [[Len Wein]] (writer), [[George Pérez]] (artist)
 | alliances = 
 | partners = [[Dormammu]] <br />[[Salem's Seven]]
 | aliases =
@@ -16,7 +16,7 @@
 
 ==Publication history==
 {{expand-section|date=April 2014}}
-Nicholas Scratch first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #185 (August 1977) and was created by [[Len Wein]] (writer) and [[George PÃ©rez]] (artist).
+Nicholas Scratch first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #185 (August 1977) and was created by [[Len Wein]] (writer) and [[George Pérez]] (artist).
 
 The name "Nicholas Scratch" is an [[compound (linguistics)|amalgam]] of colloquial and [[Euphemism|euphemistic]] names for the Devil: "[[Christian teaching about the Devil|Old Nick]]" and "Old Scratch" or "Mr. Scratch" (as used in "[[The Devil and Daniel Webster]]").{{cn|date=April 2014}}
 
@@ -48,7 +48,7 @@ Scratch wields the '''Satan Staff''', a mystical power object that served as a f
 *{{Marvunapp|http://www.marvunapp.com/Appendix/scratchnicholassalem.htm|Nicholas Scratch}}
 
 {{DEFAULTSORT:Scratch, Nicholas}}
-[[Category:Characters created by George PÃ©rez]]
+[[Category:Characters created by George Pérez]]
 [[Category:Characters created by Len Wein]]
 [[Category:Comics characters introduced in 1977]]
 [[Category:Marvel Comics characters who use magic]]

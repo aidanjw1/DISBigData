@@ -3,7 +3,7 @@
 | image            = DreadknightIM102.jpg
 | imagesize        = 222
 | converted        = y
-| caption          = [[Iron Man]] battles '''Dreadknight''' on the cover of ''Iron Man'' #102 (Sept. 1977). Art by [[George PÃ©rez]].
+| caption          = [[Iron Man]] battles '''Dreadknight''' on the cover of ''Iron Man'' #102 (Sept. 1977). Art by [[George Pérez]].
 | publisher        = [[Marvel Comics]]
 | debut            = ''[[Iron Man]]'' #101 (August 1977)
 | creators         = [[Bill Mantlo]]<br>[[George Tuska]]

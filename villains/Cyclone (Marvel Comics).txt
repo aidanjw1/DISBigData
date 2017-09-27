@@ -8,7 +8,7 @@ The second Cyclone first appeared in ''[[Marvel Comics Presents]]'' #47 and was 
 The third Cyclone first appeared in ''[[Thunderbolts (comics)|Thunderbolts]]'' #3 and was created by [[Kurt Busiek]], [[Mark Bagley]], and Vince Russell.
 
 ==Fictional character biography==
-===AndrÃ© Gerard===
+===André Gerard===
 {{Superherobox <!--Wikipedia:WikiProject Comics-->
 | image = 
 | caption = 
@@ -17,7 +17,7 @@ The third Cyclone first appeared in ''[[Thunderbolts (comics)|Thunderbolts]]'' #
 | debut = ''[[The Amazing Spider-Man]]'' #143 (April 1975)
 | creators = [[Gerry Conway]]<br>[[Ross Andru]]
 | alter_ego = 
-| full_name = AndrÃ© Gerard
+| full_name = André Gerard
 | species = Human
 | homeworld = <!-- optional -->
 | alliances = [[Maggia (comics)|Maggia]]<br/>[[NATO]]
@@ -26,13 +26,13 @@ The third Cyclone first appeared in ''[[Thunderbolts (comics)|Thunderbolts]]'' #
 | supports=<!--optional-->
 | powers =Expert engineer<br>Gifted intellect<br>Costume grants:<br>Ability to create whirlwinds
 |}}
-AndrÃ© Gerard was born in [[Lyon|Lyon, France]]. Formerly a French [[engineer]] working for [[NATO]], Gerard had a falling out with his former employees, supposedly related to political decisions over implementing his research, based on the development of a weapon that generates high velocity tornado-like winds. Cyclone took his invention and used it for his own criminal ends, developing his costume and other weapons. Like many criminal masterminds in [[Spider-Man]] comics, he decided to form a gang and capture [[J. Jonah Jameson]], the owner of the [[Daily Bugle]], and like so many criminal masterminds who follow this plan, he was defeated by Spider-Man.<ref>''Amazing Spider-Man'' #143</ref> He also kidnapped [[Robbie Robertson (comics)|Joseph "Robbie" Robertson]], but was again defeated by Spider-Man.<ref>''Amazing Spider-Man'' #144</ref>
+André Gerard was born in [[Lyon|Lyon, France]]. Formerly a French [[engineer]] working for [[NATO]], Gerard had a falling out with his former employees, supposedly related to political decisions over implementing his research, based on the development of a weapon that generates high velocity tornado-like winds. Cyclone took his invention and used it for his own criminal ends, developing his costume and other weapons. Like many criminal masterminds in [[Spider-Man]] comics, he decided to form a gang and capture [[J. Jonah Jameson]], the owner of the [[Daily Bugle]], and like so many criminal masterminds who follow this plan, he was defeated by Spider-Man.<ref>''Amazing Spider-Man'' #143</ref> He also kidnapped [[Robbie Robertson (comics)|Joseph "Robbie" Robertson]], but was again defeated by Spider-Man.<ref>''Amazing Spider-Man'' #144</ref>
 
 He was subsequently broken out of prison by the [[Masked Marauder]] and employed by the Nefaria Family of the [[Maggia (comics)#The Nefaria Family|Maggia]] as an enforcer. Cyclone was sent to kill Spider-Man and [[Moon Knight]], but was defeated by Moon Knight.<ref>''Spectacular Spider-Man'' #22-23</ref> He was doing relatively well for himself, in spite of his defeats at the hands of Spider-Man. Concerned over the deaths of various costumed villains by the vigilante Scourge organization, Cyclone attended a meeting at the "Bar with No Name" in Medinah County, [[Ohio]], to deal with the Scourge and was shot to death by a [[Scourge of the Underworld|Scourge]] agent posing as the bartender.<ref>{{cite comic|writer = [[Mark Gruenwald]]|penciller = [[Paul Neary]]|inker = [[Dennis Janke]]|story = Overkill|title = [[Captain America]]|volume = 1|issue = 319|date = July 1986|publisher = Marvel Comics}}</ref>
 
 Gerard's DNA was later used by [[Arnim Zola]] to create a proto-husk. This proto-husk attacked and was killed by [[Deadpool]].<ref>''Deadpool'' Vol. 3 #0</ref>
 
-AndrÃ© Gerard seemingly returned from the dead in the 2007-08 ''[[Mar-Vell|Captain Marvel]]'' mini-series, but it is revealed that this is really a [[Secret Invasion|Skrull impostor]]. It was killed by Captain Marvel (who was actually a Skrull sleeper agent) with its remains decimated in one powerful attack.<ref>''Captain Marvel'' (vol. 7) #1</ref>
+André Gerard seemingly returned from the dead in the 2007-08 ''[[Mar-Vell|Captain Marvel]]'' mini-series, but it is revealed that this is really a [[Secret Invasion|Skrull impostor]]. It was killed by Captain Marvel (who was actually a Skrull sleeper agent) with its remains decimated in one powerful attack.<ref>''Captain Marvel'' (vol. 7) #1</ref>
 
 Cyclone was later among the eighteen victims of Scourge to be resurrected by [[Hood (comics)|Hood]] using the power of [[Dormammu]] as part of a squad assembled to eliminate the [[Punisher]].<ref>''Punisher'' Vol. 7 #5</ref> After the Punisher is captured, he is present at the ritual where the Hood intends to resurrect the Punisher's family. The Hood gives the Punisher a knife to sacrifice [[G. W. Bridge]], but the Punisher instead uses the knife to slash Cyclone's throat.<ref>''Punisher'' Vol. 7 #10</ref>
 
@@ -118,7 +118,7 @@ He designed a costume for himself which contained mechanisms that enabled him to
 * [http://www.marvel.com/universe/Cyclone_(Pierre_Fresson) Cyclone III] at Marvel.com
 * [http://www.marvel.com/universe/Cyclone_%28Proto-Husk%29 Cyclone Proto-Husk] at Marvel.com
 * [http://www.spiderfan.org/characters/cyclone.html Profile at Spiderfan.org]
-* {{Marvunapp|http://www.marvunapp.com/Appendix6/cyclonegerardsm.htm|AndrÃ© Gerard}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix6/cyclonegerardsm.htm|André Gerard}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix2/cyclonesilvers.htm|Gregory Stevens}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/cyclonefresson.htm|Pierre Fresson}}
 

@@ -1,7 +1,7 @@
 {{In-universe|subject = comics|category = comics|date = October 2009}}
 {{Superherobox| <!--Wikipedia:WikiProject Comics-->
 | image = [[Image:Eternals5.jpg|250px]]
-| caption =Cover art for ''Eternals (vol 4)'' #5.  The Forgotten One is the center figure.<br>Art by [[Daniel AcuÃ±a]].
+| caption =Cover art for ''Eternals (vol 4)'' #5.  The Forgotten One is the center figure.<br>Art by [[Daniel Acuña]].
 | character_name = Gilgamesh
 | real_name =
 | publisher = [[Marvel Comics]]

@@ -23,9 +23,9 @@
 |cvr_image           =  
 |cvr_caption         = 
 |schedule            = {{collapsible list|
-'''(vol 1)'''<br>Monthly (1â€“19) and<br>Bi-monthly (20â€“62)<br>'''(vol 2â€“8, ''Mighty...'')'''<br>Monthly
+'''(vol 1)'''<br>Monthly (1–19) and<br>Bi-monthly (20–62)<br>'''(vol 2–8, ''Mighty...'')'''<br>Monthly
 }}
-|format              = {{collapsible list|'''(vol 1â€“4, 6â€“8, ''Mighty...'')'''<br>[[Ongoing series]]<br>'''(vol 5)'''<br>[[Limited series]]<br>[[One-shot (comics)|One-shot]] issues were also published in 1989 and 1994
+|format              = {{collapsible list|'''(vol 1–4, 6–8, ''Mighty...'')'''<br>[[Ongoing series]]<br>'''(vol 5)'''<br>[[Limited series]]<br>[[One-shot (comics)|One-shot]] issues were also published in 1989 and 1994
 }}
 |limited             =  
 |ongoing             = 
@@ -33,7 +33,7 @@
 |Superhero           = 
 |pub_series          = Marvel Comics
 |date                = {{collapsible list|
-'''(vol 1)'''<br>May [[1968 in comics|1968]]<ref name="split">The first 6 issues were published under the indecia ''Marvel's Space-Born Superhero! Captain Marvel''</ref> â€“ May [[1979 in comics|1979]]<br>'''(1-shots)'''<br>[[1989 in comics|1989]] and [[1994 in comics|1994]]<br>'''(vol 2)'''<br>December [[1995 in comics|1995]] â€“ May [[1996 in comics|1996]]<br>'''(vol 3)'''<br>January [[2000 in comics|2000]] â€“ October [[2002 in comics|2002]]<br>'''(vol 4)'''<br>November 2002 â€“ September [[2004 in comics|2004]]<br>'''(vol 5)'''<br>January â€“ June [[2008 in comics|2008]]<br>'''(vol 6)'''<br>September [[2012 in comics|2012]] â€“ November [[2013 in comics|2013]] <br>'''(vol 7)'''<br> March [[2014 in comics|2014]] â€” May [[2015 in comics|2015]] <br> '''(vol. 8)'''<br> January â€“ November [[2016 in comics|2016]] <br> '''''Mighty Captain Marvel'''''<br> January [[2017 in comics|2017]] â€“ present }}
+'''(vol 1)'''<br>May [[1968 in comics|1968]]<ref name="split">The first 6 issues were published under the indecia ''Marvel's Space-Born Superhero! Captain Marvel''</ref> – May [[1979 in comics|1979]]<br>'''(1-shots)'''<br>[[1989 in comics|1989]] and [[1994 in comics|1994]]<br>'''(vol 2)'''<br>December [[1995 in comics|1995]] – May [[1996 in comics|1996]]<br>'''(vol 3)'''<br>January [[2000 in comics|2000]] – October [[2002 in comics|2002]]<br>'''(vol 4)'''<br>November 2002 – September [[2004 in comics|2004]]<br>'''(vol 5)'''<br>January – June [[2008 in comics|2008]]<br>'''(vol 6)'''<br>September [[2012 in comics|2012]] – November [[2013 in comics|2013]] <br>'''(vol 7)'''<br> March [[2014 in comics|2014]] — May [[2015 in comics|2015]] <br> '''(vol. 8)'''<br> January – November [[2016 in comics|2016]] <br> '''''Mighty Captain Marvel'''''<br> January [[2017 in comics|2017]] – present }}
 |1stishyr            = 
 |1stishyr1           = 
 |1stishyr2           = 
@@ -43,17 +43,17 @@
 |issues              = {{collapsible list|
 '''(vol 1)''': 62<br>'''(vol 2)''': 6 <br>'''(vol 3)''': 35 <br>'''(vol 4)''': 25 <br> '''(vol 5)''': 5 <br>'''(vol 6)''': 17 <br>'''(vol 7)''': 15<br>'''(vol 8)''': 10 }}
 |main_char_team      = {{collapsible list|
-'''(vol 1)'''<br> [[Captain Marvel (Mar-Vell)|Mar-Vell]] <br>'''(1-shots)'''<br> [[Monica Rambeau]] <br>'''(vol 2â€“4)'''<br> [[Genis-Vell]] <br>'''(vol 5)'''<br>Khn'nr<br>'''(vol 6â€“8, ''Mighty...'')'''<br> [[Carol Danvers]] 
+'''(vol 1)'''<br> [[Captain Marvel (Mar-Vell)|Mar-Vell]] <br>'''(1-shots)'''<br> [[Monica Rambeau]] <br>'''(vol 2–4)'''<br> [[Genis-Vell]] <br>'''(vol 5)'''<br>Khn'nr<br>'''(vol 6–8, ''Mighty...'')'''<br> [[Carol Danvers]] 
 }}
 |writers             = {{collapsible list|
-'''(vol 1)'''<br> [[Arnold Drake]]<br> [[Gary Friedrich]] <br> [[Roy Thomas]]<br>[[Marv Wolfman]]<br>[[Mike Friedrich]]<br>[[Jim Starlin]]<br>[[Steve Englehart]]<br>[[Gerry Conway]]<br> Scott Edelman <br>'''(vol 2)'''<br>[[Fabian Nicieza]]<br> '''(vol 3â€“4)'''<br> [[Peter David]]<br> '''(vol 5)'''<br>[[Brian Reed]]<br>'''(vol 6â€“7)'''<br>[[Kelly Sue DeConnick]]<br>'''(vol 8)'''<br>Michele Fazekas<br>[[Christos Gage]] & Ruth Gage<br> ('''''Mighty...''''')<br>Margaret Stohl 
+'''(vol 1)'''<br> [[Arnold Drake]]<br> [[Gary Friedrich]] <br> [[Roy Thomas]]<br>[[Marv Wolfman]]<br>[[Mike Friedrich]]<br>[[Jim Starlin]]<br>[[Steve Englehart]]<br>[[Gerry Conway]]<br> Scott Edelman <br>'''(vol 2)'''<br>[[Fabian Nicieza]]<br> '''(vol 3–4)'''<br> [[Peter David]]<br> '''(vol 5)'''<br>[[Brian Reed]]<br>'''(vol 6–7)'''<br>[[Kelly Sue DeConnick]]<br>'''(vol 8)'''<br>Michele Fazekas<br>[[Christos Gage]] & Ruth Gage<br> ('''''Mighty...''''')<br>Margaret Stohl 
 }}
 |artists             = 
 |pencillers          = {{collapsible list|
-'''(vol 1)'''<br>[[Don Heck]]<br> [[Dick Ayers]]<br> [[Frank Springer]] <br> [[Gil Kane]] <br> [[Wayne Boring]]<br>[[Jim Starlin]]<br>[[Al Milgrom]] <br>[[Pat Broderick]] <br>'''(vol 2)'''<br>[[Ed Benes]]<br> '''(vol 3â€“4)'''<br> [[ChrisCross]]<br> '''(vol 5)'''<br>[[Lee Weeks]]<br>'''(vol 6)'''<br>Dexter Soy<br>Filipe Andrade<br>Scott Hepburn<br>[[Patrick Olliffe]]<br>'''(vol 7)'''<br>David Lopez <br>'''(vol 8)'''<br>[[Kris Anka]]<br>('''''Mighty...''''')<br>Ramon Rosanas
+'''(vol 1)'''<br>[[Don Heck]]<br> [[Dick Ayers]]<br> [[Frank Springer]] <br> [[Gil Kane]] <br> [[Wayne Boring]]<br>[[Jim Starlin]]<br>[[Al Milgrom]] <br>[[Pat Broderick]] <br>'''(vol 2)'''<br>[[Ed Benes]]<br> '''(vol 3–4)'''<br> [[ChrisCross]]<br> '''(vol 5)'''<br>[[Lee Weeks]]<br>'''(vol 6)'''<br>Dexter Soy<br>Filipe Andrade<br>Scott Hepburn<br>[[Patrick Olliffe]]<br>'''(vol 7)'''<br>David Lopez <br>'''(vol 8)'''<br>[[Kris Anka]]<br>('''''Mighty...''''')<br>Ramon Rosanas
 }}
 |inkers              = {{collapsible list|
-'''(vol 1)'''<br>[[Vince Colletta]] <br>[[Dan Adkins]]<br>[[Al Milgrom]]<br> [[Terry Austin (comics)|Terry Austin]]<br>'''(vol 2)'''<br>Mike Sellers <br> '''(vol 3â€“4)'''<br>'''(vol 5)'''<br>Jesse Delperdang<br>'''(vol 6)'''<br>Dexter Soy<br>Filipe Andrade <br>'''(vol 7)'''<br>David Lopez<br>'''(vol 8)'''<br>[[Kris Anka]]<br>('''''Mighty...''''')<br>Ramon Rosanas
+'''(vol 1)'''<br>[[Vince Colletta]] <br>[[Dan Adkins]]<br>[[Al Milgrom]]<br> [[Terry Austin (comics)|Terry Austin]]<br>'''(vol 2)'''<br>Mike Sellers <br> '''(vol 3–4)'''<br>'''(vol 5)'''<br>Jesse Delperdang<br>'''(vol 6)'''<br>Dexter Soy<br>Filipe Andrade <br>'''(vol 7)'''<br>David Lopez<br>'''(vol 8)'''<br>[[Kris Anka]]<br>('''''Mighty...''''')<br>Ramon Rosanas
 }}
 |letterers           = 
 |colorists           = 

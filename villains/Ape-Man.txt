@@ -2,7 +2,7 @@
 '''Ape-Man''' is the name of three fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-Monk Keefer first appeared in ''[[The Avengers (comic book)|The Avengers]]'' #12 (January 1965), and was created by [[Stan Lee]] and [[Don Heck]]. He first appeared as Ape-Man in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #10-11 (October, December 1965) by [[Stan Lee]], [[Bob Powell (comics)|Bob Powell]], and [[Wally Wood]]. The character subsequently appears in ''Daredevil'' #39-41 (Aprilâ€“June 1968), ''Daredevil Annual'' #2 (1971), ''Marvel Team-Up'' #25 (September 1974), ''X-Men'' #94-95 (Augustâ€“October 1975), and ''Iron Man'' #115-116 (Octoberâ€“November 1978), in which he dies. The character appears posthumously in ''Iron Man'' #139 (October 1980) and ''Classic X-Men'' #3 (November 1986). Ape-Man appeared as part of the "Ani-Men" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #16, and in the ''Official Handbook of the Marvel Universe Master Edition'' #24.
+Monk Keefer first appeared in ''[[The Avengers (comic book)|The Avengers]]'' #12 (January 1965), and was created by [[Stan Lee]] and [[Don Heck]]. He first appeared as Ape-Man in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #10-11 (October, December 1965) by [[Stan Lee]], [[Bob Powell (comics)|Bob Powell]], and [[Wally Wood]]. The character subsequently appears in ''Daredevil'' #39-41 (April–June 1968), ''Daredevil Annual'' #2 (1971), ''Marvel Team-Up'' #25 (September 1974), ''X-Men'' #94-95 (August–October 1975), and ''Iron Man'' #115-116 (October–November 1978), in which he dies. The character appears posthumously in ''Iron Man'' #139 (October 1980) and ''Classic X-Men'' #3 (November 1986). Ape-Man appeared as part of the "Ani-Men" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #16, and in the ''Official Handbook of the Marvel Universe Master Edition'' #24.
 
 The second Ape-Man appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #157-158 (March, May 1979), and was created by [[Roger McKenzie (comics)|Roger McKenzie]], [[Mary Jo Duffy]], and [[Gene Colan]]. Ape-Man appeared as part of the "Ani-Men" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #16, and in the ''Official Handbook of the Marvel Universe Master Edition'' #24.
 
@@ -59,7 +59,7 @@ image=
 |species=
 |publisher=[[Marvel Comics]]
 |debut=Code of Honor #3 (April, 1997)
-|creators=[[Chuck Dixon]] (writer), Bob Wakelin (co-artist), and [[DÃ¦rick GrÃ¶ss, Sr.]] (co-artist)
+|creators=[[Chuck Dixon]] (writer), Bob Wakelin (co-artist), and [[Dærick Gröss, Sr.]] (co-artist)
 |alliances=[[Ani-Men]]
 |aliases=
 |powers=

@@ -6,7 +6,7 @@ image=
 |species=
 |publisher=[[Marvel Comics]]
 |debut=''[[Fantastic Four]]'' vol. 1 #186 (Sep 1977)
-|creators= [[Len Wein]] and [[George PÃ©rez]]
+|creators= [[Len Wein]] and [[George Pérez]]
 |alliances=[[Salem's Seven]]<br/>[[Frightful Four]]
 |aliases=
 |powers=
@@ -15,7 +15,7 @@ image=
 '''Reptilla''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-Reptilla first appeared in ''[[Fantastic Four]]'' vol. 1 #186 (September 1977), and was created by [[Len Wein]] and [[George PÃ©rez]].
+Reptilla first appeared in ''[[Fantastic Four]]'' vol. 1 #186 (September 1977), and was created by [[Len Wein]] and [[George Pérez]].
 
 ==Fictional character biography==
 Reptilla is a daughter of [[Nicholas Scratch]] and is  a member of [[Salem's Seven]].
@@ -28,7 +28,7 @@ Reptilla transforms into a [[snake]]-like form with a single long snake tail ins
 ==References==
 {{reflist}}
 
-[[Category:Characters created by George PÃ©rez]]
+[[Category:Characters created by George Pérez]]
 [[Category:Characters created by Len Wein]]
 [[Category:Comics characters introduced in 1977]]
 [[Category:Female supervillains]]

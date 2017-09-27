@@ -12,7 +12,7 @@ Bravelle's second (and, as of 2014, last) appearance was in the backstory "The R
 The stories were reprinted in a few Marvel collections in later years.<ref name=Realm/>{{Better source|reason=apparently just some guy's hobby ("my day job is programming")|date=May 2014}}
 
 ==Fictional character biography==
-{{Reduced pull quote|right|I shall call you the Top â€“ You shall fight the forces of crime and be the savior of the oppressed and innocent!|Professor Raymore Davis (in dialogue written by Dick Briefer)|Origin of the Human Top<ref name=ComicVine/>}}
+{{Reduced pull quote|right|I shall call you the Top – You shall fight the forces of crime and be the savior of the oppressed and innocent!|Professor Raymore Davis (in dialogue written by Dick Briefer)|Origin of the Human Top<ref name=ComicVine/>}}
 Bruce Bravelle, a high-school graduate from the fictional town of Patriotville, South Carolina<ref name=ComicVine/> was a test subject for a scientist who was trying to find a way to nourish the human body with electrical currents instead of food. In the middle of one of the tests, a bolt of lightning struck<ref name=Dime/> the castle in which the experiment was being conducted, causing an opposing magnetic flow and giving Bravelle the ability to spin around at superhuman speed when he crosses his wrists or is exposed to electricity. He can fly, drill his way through walls, and deflect bullets. He can operate underwater and travel at a speed of up to {{convert|250|mph|kph}}. His bullet-deflecting and wall-drilling powers are created by the intense whirlwind which he generates when spinning.<ref name=ComicVine/>
 
 In his first adventure (published in 1940), the Top thwarts some bank robbers, ultimately discovering that bank owner Horace Vanderveer (who had tried to frame the Top for the robbery)<ref name=Mahney/>{{Better source|reason=another fan blog |date=May 2014}} was behind the robbery and forcing him to confess.{{cn|date=July 2016}}
@@ -43,7 +43,7 @@ In his first appearance, the Top's costume is a [[bodysuit]], mostly blue with r
 
 <ref name=Mahney>{{cite web |url=http://comicsodyssey.blogspot.com/2012_04_01_archive.html |title=May 1940: Red Raven Comics #1 |author=Nathan P. Mahney |date=April 3, 2012 |work=A Comics Odyssey |accessdate=July 31, 2014}}</ref>
 
-<ref name=MW>{{cite web |url=http://www.marvel-world.com/encyclopedie-803-fiche-tourbillon-le-biographie.html |title=EncylopÃ©die - Tourbillon (le) |trans_title=Encyclopedia - Top (The) |author=ThierryM |work=Marvel World |accessdate=July 31, 2014}} {{link language|fr}}</ref>
+<ref name=MW>{{cite web |url=http://www.marvel-world.com/encyclopedie-803-fiche-tourbillon-le-biographie.html |title=Encylopédie - Tourbillon (le) |trans_title=Encyclopedia - Top (The) |author=ThierryM |work=Marvel World |accessdate=July 31, 2014}} {{link language|fr}}</ref>
 }}
 
 *{{cite book |last=Rovin |first=Jeff |title=The Encyclopedia of Superheroes |url= |year=1985 |publisher=Facts On File |isbn=978-0816011681 |page= }}
