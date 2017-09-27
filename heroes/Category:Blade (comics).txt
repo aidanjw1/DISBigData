@@ -1,0 +1,8 @@
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics vampires]]
+[[Category:Comics about revenge]]
+[[Category:1973 comics debuts]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional half-vampires]]
+[[Category:Fictional vampire hunters]]
+[[Category:Midnight Sons]]

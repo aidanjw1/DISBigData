@@ -1,0 +1,7 @@
+[[Category:Marvel Comics superheroes|Silver Surfer]]
+[[Category:Media franchises]]
+[[Category:Wikipedia categories named after fictional characters]]
+[[Category:1968 comics debuts]]
+[[Category:Comics characters introduced in 1968]]
+[[Category:American comics characters]]
+[[Category:American comic strips]]
