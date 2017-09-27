@@ -4,8 +4,9 @@
 |caption=Delroy Garrett as 3-D Man in ''[[Avengers World]]'' #15. 
 |publisher=[[Marvel Comics]]
 |debut=''[[The Avengers (comic book)|Avengers (vol. 3)]]'' #8 (September [[1998 in comics|1998]])
-|creators=[[Kurt Busiek]] (writer)<br>[[George Pérez]] (artist)
+|creators=[[Kurt Busiek]] (writer)<br>[[George PÃ©rez]] (artist)
 |alter_ego =Delroy Garrett, Jr.
+|full_name =
 |species= [[Mutate (comics)|Human Mutate]]
 |homeworld = <!-- optional -->
 |alliances=[[Skrull Kill Krew]]<br>Secret Avengers (Civil War)<br>[[Avengers: The Initiative|The Initiative]]<br>[[Point Men]]<br>[[Avengers (comics)|Avengers]]<br>[[Triune Understanding]]<br>[[Agents of Atlas]]<br>[[List of Avengers members#Astonishing Avengers (2014)|Astonishing Avengers]] 
@@ -18,14 +19,14 @@
 
 ==Publication history==
 {{Expand section|date=April 2010}}
-Triathlon first appeared in ''[[The Avengers (comic book)|Avengers]]'' vol. 3 #8 (September 1998), and was created by [[Kurt Busiek]] and [[George Pérez]].
+Triathlon first appeared in ''[[The Avengers (comic book)|Avengers]]'' vol. 3 #8 (September 1998), and was created by [[Kurt Busiek]] and [[George PÃ©rez]].
 
 The character appeared as a member of the [[Agents of Atlas]] in 2011.<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=24795 |title=Parker Remaps Marvel's "Atlas" |publisher=Comic Book Resources |date= |accessdate=2011-03-12}}</ref>
 
 ==Fictional character biography==
 Delroy Garrett is an [[Olympic Games|Olympic]] [[Track and field|track]] [[Lists of Olympic medalists|medalist]] whose career was derailed when it was found he used [[steroid]]s. Dejected, Delroy joined the [[Triune Understanding]] to restore his faith. Triune leader Jonathan Tremont imbued Delroy with the powers stolen from the former superhero, the [[3-D Man]]. Delroy had no idea of the source of his new powers thinking that the teachings of the Triune had simply unlocked his superhuman potential. Delroy became the costumed superhero, '''Triathlon''', and became the Triune's celebrity spokesman.{{Issue|date=October 2009}}
 
-Garrett's first involvement with the Avengers came while he was using the identity of Triathlon, he assisted them in defeating [[arms dealer]] [[Moses Magnum]].<ref>''Avengers (vol. 3)'' # 8–9 (September–October 1998)</ref> Soon after, Garrett also helped the Avengers battle Lord Templar and Pagan at the dedication ceremony of a new Triune Understanding building. The battle ended with Lord Templar and Pagan escaping.<ref>''Avengers (vol. 3)'' #15 (April 1999)</ref> Jonathan Tremont publicly blamed the Avengers for the destruction,{{Issue|date=February 2010}} and then covertly set up a smear campaign against the team to suggest they were religiously intolerant and racist.{{Issue|date=February 2010}} Tremont then had the mercenary [[Taskmaster (comics)|Taskmaster]] frame a number of Avengers for the destruction of an important Triune building. Tremont then publicly "forgave" the Avengers which the team grudgingly went along with to avoid further bad publicity. It was during Tremont's media event at [[Avengers Mansion]] that the building was attacked by a [[terrorist]]. Triathlon aided the Avengers in defeating the terrorist. In the aftermath, Duane Freeman, the Avengers' government [[Liaison officer|liaison]] suggested that the team add Triathlon as a member to quell the bad publicity that the team had recently engendered. With some animosity on both sides, Triathlon was made a member of the Avengers when their new line-up was announced to the public.<ref>''Avengers (vol. 3)'' #26 (March 2000)</ref>
+Garrett's first involvement with the Avengers came while he was using the identity of Triathlon, he assisted them in defeating [[arms dealer]] [[Moses Magnum]].<ref>''Avengers (vol. 3)'' # 8â€“9 (Septemberâ€“October 1998)</ref> Soon after, Garrett also helped the Avengers battle Lord Templar and Pagan at the dedication ceremony of a new Triune Understanding building. The battle ended with Lord Templar and Pagan escaping.<ref>''Avengers (vol. 3)'' #15 (April 1999)</ref> Jonathan Tremont publicly blamed the Avengers for the destruction,{{Issue|date=February 2010}} and then covertly set up a smear campaign against the team to suggest they were religiously intolerant and racist.{{Issue|date=February 2010}} Tremont then had the mercenary [[Taskmaster (comics)|Taskmaster]] frame a number of Avengers for the destruction of an important Triune building. Tremont then publicly "forgave" the Avengers which the team grudgingly went along with to avoid further bad publicity. It was during Tremont's media event at [[Avengers Mansion]] that the building was attacked by a [[terrorist]]. Triathlon aided the Avengers in defeating the terrorist. In the aftermath, Duane Freeman, the Avengers' government [[Liaison officer|liaison]] suggested that the team add Triathlon as a member to quell the bad publicity that the team had recently engendered. With some animosity on both sides, Triathlon was made a member of the Avengers when their new line-up was announced to the public.<ref>''Avengers (vol. 3)'' #26 (March 2000)</ref>
 
 At first, Triathlon, although a capable member, constantly complained and argued with his teammates, thinking that they were [[wikt:intolerance|intolerant]] and included him on the team only because of the public image. But soon, with the help of teammate [[Ms. Marvel|Warbird]], who told him that he could either go around with a chip on his shoulder and never fit in or actually try to work with his teammates as people and take the chance they would be imperfect, Delroy saw that his teammates were good people and became an eager and willing team member, even refusing to attend Triune functions if it conflicted with his schedule as an Avenger.{{Issue|date=October 2009}}
 
@@ -62,12 +63,11 @@ In [[JLA/Avengers]], Triathlon appears in the first issue where he is taken over
 {{Reflist}}
 
 ==External links==
-* {{Marvelwiki|3-D_Man_(Delroy_Garrett)|Delroy Garrett}}
-* [http://marvel.wikia.com/wiki/Delroy_Garrett_Jr._(Earth-616) Delroy Garrett] at the Marvel Wikia
-* [http://www.marveldirectory.com/individuals/t/trathlon.htm Triathlon] at Marvel Directory
+* {{Marvelwiki|3-D_Man_(Delroy_Garrett)|3-D Man (Delroy Garrett)}}
 * {{comicbookdb|type=character|id=205|title=Triathlon}}
-
-{{Marvel Comics characters (0–9)}}
+* [http://marvel.wikia.com/wiki/Delroy_Garrett_Jr._(Earth-616)) Triathlon] at the Marvel Wiki
+* [http://www.marveldirectory.com/individuals/t/trathlon.htm Triathlon] at Marvel Directory
+{{Marvel Comics characters (0â€“9)}}
 {{Initiative}}
 
 {{DEFAULTSORT:Garrett, Delroy}}

@@ -1,7 +1,7 @@
 {{about||the New Zealand cricketer|Liz Allan (cricketer)|the writer|Liz Allen}}
 {{Supersupportingbox
 |image=Liz Allan.jpg
-|caption={{Descript-cvr-art|Sensational Spider-Man|2|40|October, 2007|art=[[Clayton Crain]]|pub=Marvel|¶ = y}}
+|caption={{Descript-cvr-art|Sensational Spider-Man|2|40|October, 2007|art=[[Clayton Crain]]|pub=Marvel|Â¶ = y}}
 |character_name='''Liz Allan'''
 |publisher=[[Marvel Comics]]
 |debut=''[[Amazing Fantasy]]'' #15 (August 1962)

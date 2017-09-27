@@ -6,7 +6,7 @@
 | character_name =Tyrak
 | publisher =[[Marvel Comics]]
 | debut=''[[Avengers (comics)|Avengers]]'' #154<br> (December 1976)
-| creators = [[Gerry Conway]] (writer)<br> [[George Pérez]] (artist)
+| creators = [[Gerry Conway]] (writer)<br> [[George PÃ©rez]] (artist)
 | real_name = Tyrak
 | alliances = Servant of [[Attuma]]
 | species = ''[[Homo mermanus]]''
@@ -19,7 +19,7 @@
 
 ==Publication history==
 {{expand-section|date=February 2016}}
-Tyrak first appeared in ''[[Avengers (comics)|Avengers]]'' #154 (December 1976) and was created by [[Gerry Conway]] (writer) and [[George Pérez]] (artist).
+Tyrak first appeared in ''[[Avengers (comics)|Avengers]]'' #154 (December 1976) and was created by [[Gerry Conway]] (writer) and [[George PÃ©rez]] (artist).
 
 ==Fictional character biography==
 He is an [[Homo mermanus|Atlantean]] warrior, serving in the army of the conqueror [[Attuma]]. He has served in a number of missions for Attuma, and has fought the [[Avengers (comics)|Avengers]] on more than one occasion.
@@ -43,7 +43,7 @@ He rivals Attuma's strength and is able to enhance it further by increasing his 
 
 {{Namor}}
 
-[[Category:Characters created by George Pérez]]
+[[Category:Characters created by George PÃ©rez]]
 [[Category:Characters created by Gerry Conway]]
 [[Category:Fictional secret agents and spies]]
 [[Category:Marvel Comics Atlanteans (Homo mermanus)]]

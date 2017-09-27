@@ -26,7 +26,7 @@ image=[[Image:MarvelBoy1-1950.jpg|210px]]
 
 ==Wendell Vaughn==
 {{main|Quasar (Wendell Vaughn)}}
-'''Wendell Elvis Vaughn''', an agent in the Marvel Comics [[espionage]] agency [[S.H.I.E.L.D.]], became the 1970s Marvel Boy in ''[[Captain America (comic book)|Captain America]]'' #217 (Jan. 1978), when he became bonded to the 1950s character's "quantum band" bracelets. The bands had been remanded to S.H.I.E.L.D. after the events of ''The Fantastic Four'' #165, above. His codename was quickly changed to '''Marvel Man''' as part of the agency's short-lived Super-Agent program. He changed it to '''[[Quasar (comics)|Quasar]]''' in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #234 (April 1979).
+'''Wendell Elvis Vaughn''', an agent in the Marvel Comics [[espionage]] agency [[S.H.I.E.L.D.]], became the 1970s Marvel Boy in ''[[Captain America (comic book)|Captain America]]'' #217 (Jan. 1978), when he became bonded to the 1950s character's "quantum band" bracelets. The bands had been remanded to S.H.I.E.L.D. after the events of ''The Fantastic Four'' #165, above. His codename was quickly changed to '''Marvel Man''' as part of the agency's short-lived Super-Agent program. He changed it to '''[[Quasar (comics)|Quasar]]''' in ''[[The Incredible Hulk]]'' #234 (April 1979).
 
 ==Vance Astrovik==
 {{main|Vance Astrovik}}
@@ -56,7 +56,6 @@ While never using the name Marvel Boy, [[Noh-Varr]] was introduced in a 2000 [[l
 * {{comicbookdb|type=character|id=4783|title=Marvel Boy (Noh-Varr)}}
 {{Marvel Comics characters (M)}}
 {{GoldenAge}}
-
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Bob Oksner]]
