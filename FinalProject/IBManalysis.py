@@ -26,10 +26,9 @@ def toneAnalyzer(text, team):
 
 	for tone in toneList:
 		tonesToAdd[tone['tone_name']] = tone['score']
-		#print("Tone: ", tone['tone_name'], "Score: " , tone['score'])
 
 	tweet_dict = {'Team': team, 'Tweet': text, 'Sentiment': tonesToAdd}
-	#print (tweet_dict)
+	print (tweet_dict)
 	twitter_data.append(tweet_dict)
 
 
