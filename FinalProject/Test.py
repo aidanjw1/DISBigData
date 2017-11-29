@@ -1,6 +1,6 @@
 from IBManalysis import toneAnalyzer
 from WikiData import get_cleaned_text
 
-team = "Minnesota_Timberwolves"
+team = "San_Antonio_Spurs"
 text = get_cleaned_text(team)
-toneAnalyzer(text)
+toneAnalyzer(text, team)

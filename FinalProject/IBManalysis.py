@@ -18,12 +18,12 @@ def toneAnalyzer(text, team):
     content_type='text/plain')
   	prettyTone = json.dumps(tone, indent=2)
   	toneList = tone['document_tone']['tones']
-  	#print(text)
-  	#print(prettyTone)
+  	print(text)
+  	print(prettyTone)
 
   	tonesToAdd = {}
 
-  	
+
 	for tone in toneList:
 		tonesToAdd[tone['tone_name']] = tone['score']
 		#print("Tone: ", tone['tone_name'], "Score: " , tone['score'])
