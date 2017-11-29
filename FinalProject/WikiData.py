@@ -43,6 +43,7 @@ def get_history_text(team):
     for i in p:
         i = str(i)
         i = re.sub('<.*?>', '', i)
+        i = re.sub('\[\d.*?\]', '', i)
         out += ' ' + i
     return out
 
