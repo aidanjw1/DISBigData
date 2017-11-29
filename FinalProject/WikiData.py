@@ -1,6 +1,8 @@
 import requests as rq
 import sys
 import string
+from bs4 import BeautifulSoup
+import re
 
 badWords = list(string.punctuation)
 numbers = ["0","1","2","3","4","5","6","7","8","9"]
@@ -27,14 +29,29 @@ def get_cleaned_text(team):
                 check = False
                 break
         if (check == True):
-            cleanedText.append(word)
+            cleanedText.append(word, 'html.parser')
     text = " ".join(cleanedText)
     return text
+
+def get_history_text(team):
+    out = ''
+    url = "https://en.wikipedia.org/wiki/{0}".format(team)
+    html = rq.get(url).text
+    soup = BeautifulSoup(html)
+    history = soup.find_all('div', attrs={'id': 'mw-content-text'})
+    p = history[0].find_all('p')
+    for i in p:
+        i = str(i)
+        i = re.sub('<.*?>', '', i)
+        out += ' ' + i
+    return out
+
+
+
 
 if __name__ == "__main__":
     try:
         team = sys.argv[1]
     except:
         team = "Minnesota_Timberwolves"
-    print get_wiki(team)
-    get_cleaned_text(team)
+    print get_history_text(team)
