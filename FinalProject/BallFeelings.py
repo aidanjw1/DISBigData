@@ -22,8 +22,9 @@ team_tweets = {'@Raptors':[], '@warriors':[], '@nuggets':[], '@okcthunder':[],
 
 for team in team_tweets.keys():
     results = api.search(q=team, lang='en', count='100')
+    f = open('./Tweets/' + team + '.txt', 'w')
 
     for tweet in results:
-        team_tweets[team].append(tweet)
+        f.write(tweet.text.encode('utf-8') + '\n')
 
-print len(team_tweets("@warriors"))
+    f.close()
