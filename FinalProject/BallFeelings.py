@@ -24,7 +24,6 @@ for team in team_tweets.keys():
     results = api.search(q=team, lang='en', count='100')
 
     for tweet in results:
-        try:
-            print tweet.text
-        except:
-            pass
+        team_tweets[team].append(tweet)
+
+print len(team_tweets("@warriors"))
