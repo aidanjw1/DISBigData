@@ -10,21 +10,33 @@ tone_analyzer = ToneAnalyzerV3(
 	  version='2017-09-26'
 	)
 
+twitter_data = []
 
-def toneAnalyzer(text):
+
+def toneAnalyzer(text, team):
 	tone = tone_analyzer.tone(text, tones='emotion',
     content_type='text/plain')
   	prettyTone = json.dumps(tone, indent=2)
   	toneList = tone['document_tone']['tones']
-  	print(text)
-  	print(prettyTone)
+  	#print(text)
+  	#print(prettyTone)
 
+  	tonesToAdd = {}
+
+  	
 	for tone in toneList:
-		print("Tone: ", tone['tone_name'], "Score: " , tone['score'])
+		tonesToAdd[tone['tone_name']] = tone['score']
+		#print("Tone: ", tone['tone_name'], "Score: " , tone['score'])
+
+	tweet_dict = {'Team': team, 'Tweet': text, 'Sentiment': tonesToAdd}
+	#print (tweet_dict)
+	twitter_data.append(tweet_dict)
+
 
 def main():
-	toneAnalyzer("Lebron James and the cavaliers are playing amazing basketball these last 3 weeks")
-	toneAnalyzer("I hate what magic johnson and the Lakers are doing right now with Lonzo Ball")
+	toneAnalyzer("Lebron James and the cavaliers are playing amazing basketball these last 3 weeks", "Cavaliers")
+	toneAnalyzer("@NBA @Cavs bout time someone tossed king james crybaby flopping ass #racism", "Cavs")
+	print (twitter_data)
 
 
 
