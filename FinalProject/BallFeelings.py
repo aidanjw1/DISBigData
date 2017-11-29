@@ -21,10 +21,10 @@ team_tweets = {'@Raptors':[], '@warriors':[], '@nuggets':[], '@okcthunder':[],
                '@trailblazers':[], '@SacramentoKings':[]}
 
 for team in team_tweets.keys():
-    results = api.search(q=team, lang='en', count='100')
     f = open('./Tweets/' + team + '.txt', 'w')
 
-    for tweet in results:
-        f.write(tweet.text.encode('utf-8') + '\n')
+    for tweet in tweepy.Cursor(api.search, q=team, lang='en', count=100).items(200):
+        if not tweet.text[:2] == 'RT':
+            f.write(tweet.text.encode('utf-8') + '\n')
 
     f.close()
