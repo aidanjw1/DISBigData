@@ -18,8 +18,10 @@ def toneAnalyzer(text, team):
     content_type='text/plain')
   	prettyTone = json.dumps(tone, indent=2)
   	toneList = tone['document_tone']['tones']
-  	print(text)
-  	print(prettyTone)
+  	#print(text)
+  	#print(prettyTone)
+	# print team
+	# print toneList
 
   	tonesToAdd = {}
 
@@ -31,6 +33,8 @@ def toneAnalyzer(text, team):
 	tweet_dict = {'Team': team, 'Tweet': text, 'Sentiment': tonesToAdd}
 	#print (tweet_dict)
 	twitter_data.append(tweet_dict)
+
+	return toneList
 
 
 def main():
