@@ -25,8 +25,17 @@ def readJSON():
         data = json.load(f)
 
     #print (json.dumps(data, indent=4, sort_keys=True))
-    print(data[0])
+    totalJoy = 0
+    numJoy = 0
+    numTeamTweets = 0
+    for tweet in data:
+        if (tweet['Team'] == "@BrooklynNets"):
+            numTeamTweets += 1
+            if (tweet['Sentiment'].has_key('Joy')):
+                totalJoy += tweet['Sentiment']['Joy']
+                numJoy += 1
 
+    print(1.0 * numJoy / numTeamTweets)
     #print (data)
 
 
@@ -45,8 +54,8 @@ def appendJSON(tweet_data):
 
     writeJSON(data)
 
-getSentiment()
-#readJSON()
+#getSentiment()
+readJSON()
 
 
 
