@@ -7,31 +7,50 @@ tweet_data = []
 
 def getSentiment():
     #for name in os.listdir('./Tweets/'):
-    with open('./Tweets/@ATLHawks.txt', 'r') as f:
+    with open('./Tweets/@Bucks.txt', 'r') as f:
         content = f.readlines();
         for line in content:
-            tweet_info = toneAnalyzer(line, name[:-4])
+            tweet_info = toneAnalyzer(line, "@Bucks")
 
             if (tweet_info['Sentiment']):
                 print tweet_info
                 tweet_data.append(tweet_info)
-    print (tweet_data)
+    #print (tweet_data)
+    #writeJSON(tweet_data)
+    appendJSON(tweet_data)
 
 
 def readJSON():
+    with open('./sentiment_data/tweet_data.json', 'r') as f:
+        data = json.load(f)
+
+    #print (json.dumps(data, indent=4, sort_keys=True))
+    print(data[0])
+
+    #print (data)
 
 
-def writeJSON():
 
-'''for team in team_data.keys():
-    team_tones = {}
-    team_tones['team'] = team
-    for tone in team_data[team]:
-        team_tones[tone['tone_name']] = str(tone['score'])
-    out.append(team_tones)
-    print 'json added: ' + team'''
+def writeJSON(tweet_data):
+    with open('./sentiment_data/tweet_data.json', 'w') as f:
+        json.dump(tweet_data, f)
 
-'''with open('./sentiment_data/history_sentiments.json', 'w') as f:
-    json.dump(out, f)'''
+
+def appendJSON(tweet_data):
+    with open('./sentiment_data/tweet_data.json', 'r') as f:
+        data = json.load(f) 
+
+    for tweet in tweet_data:
+        data.append(tweet)
+
+    writeJSON(data)
 
 getSentiment()
+#readJSON()
+
+
+
+
+
+
+
