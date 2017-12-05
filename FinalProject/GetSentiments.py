@@ -12,34 +12,26 @@ for name in os.listdir('./history/'):
     joy = 0
     with open('./history/' + name, 'r') as f:
         hist = f.read()
-    sentences = hist.split('.')
-    for i in range(len(sentences)/100):
-        group = ""
-        for j in range(100):
-            group += sentences[j + i * 100]
-        tones = toneAnalyzer(group, name)
-        print tones.keys()
-        # if 'Sadness' in tones.keys():
-        #     sad += 1
-        # if 'Joy' in tones.keys():
-        #     joy += 1
-        # team_data = {}
-        # team_data['team'] = name
-        # team_data['joy'] = joy
-        # team_data['sadness'] = sad
-        # out.append(team_data)
-        # i += 1
-        # print i
-    print 'finished sentiment: ' + name
-
-
-# for team in team_data.keys():
-#     team_tones = {}
-#     team_tones['team'] = team
-#     for tone in team_data[team]:
-#         team_tones[tone['tone_name']] = str(tone['score'])
-#     out.append(team_tones)
-#     print 'json added: ' + team
+    # Perform sentiment analysis on fractions of the history text
+    # and sum the values for each team
+    frac = 6
+    for i in range(frac):
+        start = int((i / float(frac)) * len(hist))
+        end = int((i + 1) / float(frac) * len(hist))
+        try:
+            tones = toneAnalyzer(hist[start:end], name)
+        except:
+            continue
+        if 'Joy' in tones['Sentiment'].keys():
+            joy += tones['Sentiment']['Joy']
+        if 'Sadness' in tones['Sentiment'].keys():
+            sad += tones['Sentiment']['Sadness']
+    team_data = {}
+    team_data['team'] = name
+    team_data['joy'] = round(joy, 3)
+    team_data['sadness'] = round(sad, 3)
+    print team_data
+    out.append(team_data)
 
 with open('./sentiment_data/history_sentiments.json', 'w') as f:
-    json.dump(out, f)
+    json.dump(out, f, indent=4, sort_keys=True)
