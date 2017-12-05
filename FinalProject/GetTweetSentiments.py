@@ -42,7 +42,8 @@ def readJSON():
 
 def writeJSON(tweet_data):
     with open('./sentiment_data/tweet_data.json', 'w') as f:
-        json.dump(tweet_data, f)
+        cleaned_data = json.dumps(tweet_data, indent=4, sort_keys=True)
+        json.dump(cleaned_data, f)
 
 
 def appendJSON(tweet_data):
