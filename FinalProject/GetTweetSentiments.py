@@ -38,7 +38,7 @@ def readJSON(team, sentiment):
                 totalJoy += tweet['Sentiment'][sentiment]
                 numJoy += 1
 
-    print(1.0 * numJoy / numTeamTweets)
+    return 1.0 * numJoy / numTeamTweets
 
 
 def writeJSON(tweet_data):
@@ -55,5 +55,5 @@ def appendJSON(tweet_data):
 
     writeJSON(data)
 
-getSentiment()
+#getSentiment()
 #readJSON()
