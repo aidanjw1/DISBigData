@@ -22,14 +22,14 @@ def main():
     for team in data:
         teams.append(filename_to_name(team['team']))
         try:
-            scores.append(float(team['Joy']))
+            scores.append(float(team['joy']))
         except:
             scores.append(0.0)
     xs = [i + 0.1 for i, _ in enumerate(teams)]
     plt.bar(xs, scores, .8)
     plt.xticks([i + .1 for i, _ in enumerate(teams)], teams, rotation='vertical')
     axes = plt.gca()
-    axes.set_ylim([.45,.7])
+    # axes.set_ylim([.45,.7])
     plt.title("Joy Scores")
     plt.xlabel('Team')
     plt.ylabel('Score')
