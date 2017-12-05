@@ -3,20 +3,21 @@ import os
 import json
 
 tweet_data = []
-#out = []
 
 def getSentiment():
+    count = 0
     #for name in os.listdir('./Tweets/'):
-    with open('./Tweets/@Bucks.txt', 'r') as f:
+    with open('./Tweets/@ATLHawks.txt', 'r') as f:
         content = f.readlines();
         for line in content:
-            tweet_info = toneAnalyzer(line, "@Bucks")
+            print(line)
+            tweet_info = toneAnalyzer(line, "@ATLHawks")
 
             if (tweet_info['Sentiment']):
-                print tweet_info
+                count += 1
+                #print tweet_info
                 tweet_data.append(tweet_info)
-    #print (tweet_data)
-    #writeJSON(tweet_data)
+    print(count)
     appendJSON(tweet_data)
 
 
@@ -24,26 +25,22 @@ def readJSON():
     with open('./sentiment_data/tweet_data.json', 'r') as f:
         data = json.load(f)
 
-    #print (json.dumps(data, indent=4, sort_keys=True))
     totalJoy = 0
     numJoy = 0
     numTeamTweets = 0
     for tweet in data:
-        if (tweet['Team'] == "@BrooklynNets"):
+        if (tweet['Team'] == "@ATLHawks"):
             numTeamTweets += 1
-            if (tweet['Sentiment'].has_key('Joy')):
-                totalJoy += tweet['Sentiment']['Joy']
+            if (tweet['Sentiment'].has_key('Sadness')):
+                totalJoy += tweet['Sentiment']['Sadness']
                 numJoy += 1
 
     print(1.0 * numJoy / numTeamTweets)
-    #print (data)
-
 
 
 def writeJSON(tweet_data):
     with open('./sentiment_data/tweet_data.json', 'w') as f:
-        cleaned_data = json.dumps(tweet_data, indent=4, sort_keys=True)
-        json.dump(cleaned_data, f)
+        json.dump(tweet_data, f)
 
 
 def appendJSON(tweet_data):
