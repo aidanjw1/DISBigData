@@ -7,12 +7,12 @@ tweet_data = []
 def getSentiment():
     count = 0
     #for name in os.listdir('./Tweets/'):
-    with open('./Tweets/@Bucks.txt', 'r') as f:
+    with open('./Tweets/@cavs.txt', 'r') as f:
         content = f.readlines();
         for line in content:
             print(line)
             try:
-                tweet_info = toneAnalyzer(line, "@Bucks")
+                tweet_info = toneAnalyzer(line, "@cavs")
             except:
                 pass
 
