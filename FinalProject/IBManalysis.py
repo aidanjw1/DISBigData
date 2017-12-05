@@ -5,8 +5,8 @@ from watson_developer_cloud import ToneAnalyzerV3
 
 
 tone_analyzer = ToneAnalyzerV3(
-	  username='e85a5f56-71dd-4ad9-86d6-6cd04cdf2986',
-	  password='sbf7EgP2TpIb',
+	  username='daa175b7-7d44-4ef8-821a-daacd3294e49',
+	  password='0xxXNUhM7DI2',
 	  version='2017-09-26'
 	)
 
@@ -28,4 +28,3 @@ def toneAnalyzer(text, team):
 	twitter_data.append(tweet_dict)
 
 	return tweet_dict
-
