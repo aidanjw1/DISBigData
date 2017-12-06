@@ -29,9 +29,11 @@ def get_winning_pct(html, team):
 
 if __name__ == "__main__":
     winning_pct_data = {}
+    data = []
     for team in teams:
         html = get_html(team)
-        winning_pct_data[team] = get_winning_pct(html, team)
+        team_pct = get_winning_pct(html, team)
+        winning_pct_data[team_pct] = team
 
     with open('./sentiment_data/winning_pcts.json', 'w') as f:
         json.dump(winning_pct_data, f, indent=4, sort_keys=True)
