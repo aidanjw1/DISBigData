@@ -1,5 +1,5 @@
 import tweepy
-import GetTweetSentiments
+import json
 
 def get_tweets():
     consumer_key = 'dv6NWGg4QT8rr979x81KLIsyI'
@@ -35,7 +35,7 @@ def get_tweets():
 def sentiment_ranks():
     teams = {'@Raptors':{}, '@warriors':{}, '@nuggets':{}, '@okcthunder':{},
              '@PelicansNBA':{}, '@dallasmavs':{}, '@hornets':{}, '@Lakers':{},
-             '@nyknicks':{}, '@Timberwolves':{}, '@LAClippers':{},
+             '@nyknicks':{}, '@Timberwolves':{}, '@LaClippers':{},
              '@OrlandoMagic':{}, '@Pacers':{}, '@cavs':{}, '@HoustonRockets':{},
              '@BrooklynNets':{}, '@Suns':{}, '@spurs':{}, '@utahjazz':{},
              '@celtics':{}, '@ATLHawks':{}, '@DetroitPistons':{},
@@ -43,11 +43,60 @@ def sentiment_ranks():
              '@MiamiHEAT':{}, '@memgrizz':{}, '@trailblazers':{},
              '@SacramentoKings':{}}
 
+    joy_dict = {}
+    sadness_dict = {}
+    anger_dict = {}
+    conf_dict = {}
+
+    # populate dicts with sentiment values
     for team in teams.keys():
-        teams[team]['joy'] = GetTweetSentiments.readJSON(team, 'joy')
-        teams[team]['sadness'] = GetTweetSentiments.readJSON(team, 'sadness')
-        teams[team]['anger'] = GetTweetSentiments.readJSON(team, 'anger')
-        print teams[team]
+        joy_dict[team] = read_json(team, 'Joy')
+        sadness_dict[team] = read_json(team, 'Sadness')
+        anger_dict[team] = read_json(team, 'Anger')
+        conf_dict[team] = read_json(team, 'Confident')
+
+    # sort dicts by value
+    joy_ranking = sorted(joy_dict.items(), key=lambda x:x[1], reverse=True)
+    sadness_ranking = sorted(sadness_dict.items(), key=lambda x:x[1], reverse=True)
+    anger_ranking = sorted(anger_dict.items(), key=lambda x:x[1], reverse=True)
+    conf_ranking = sorted(conf_dict.items(), key=lambda x:x[1], reverse=True)
+
+    # display results
+    print "Teams ranked by tweet joy:"
+    for team in joy_ranking:
+        print str(team[0]) + ' ' + str(team[1])
+    print
+
+    print "Teams ranked by tweet sadness:"
+    for team in sadness_ranking:
+        print str(team[0]) + ' ' + str(team[1])
+    print
+
+    print "Teams ranked by tweet anger:"
+    for team in anger_ranking:
+        print str(team[0]) + ' ' + str(team[1])
+    print
+
+    print "Teams ranked by tweet confidence:"
+    for team in conf_ranking:
+        print str(team[0]) + ' ' + str(team[1])
+
+def read_json(team, sentiment):
+    with open('./sentiment_data/tweet_data.json', 'r') as f:
+        data = json.load(f)
+
+    sentiment_sum = 0
+    sentiment_count = 0
+    total_count = 0
+    for tweet in data:
+        if (tweet['Team'] == team):
+            total_count += 1
+            if (tweet['Sentiment'].has_key(sentiment)):
+                sentiment_sum += tweet['Sentiment'][sentiment]
+                sentiment_count += 1
+
+    return 1.0 * sentiment_sum / total_count
+
 
 if __name__ == '__main__':
     sentiment_ranks()
