@@ -5,8 +5,8 @@ from watson_developer_cloud import ToneAnalyzerV3
 
 
 tone_analyzer = ToneAnalyzerV3(
-	  username='daa175b7-7d44-4ef8-821a-daacd3294e49',
-	  password='0xxXNUhM7DI2',
+	  username='223089c9-beb4-4352-baae-02baf0d63031',
+	  password='bAejcajOIsrR',
 	  version='2017-09-26'
 	)
 
