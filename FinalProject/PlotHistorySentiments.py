@@ -15,24 +15,27 @@ def filename_to_name(filename):
     return l[-1]
 
 
-def main():
+def PlotHistoryScore(sentiment):
     data = load_sentiment_scores()
     teams = []
     scores = []
     for team in data:
         teams.append(filename_to_name(team['team']))
         try:
-            scores.append(float(team['sadness']))
+            scores.append(float(team[sentiment]))
         except:
             scores.append(0.0)
     xs = [i + 0.1 for i, _ in enumerate(teams)]
     plt.bar(xs, scores, .8)
     plt.xticks([i + .1 for i, _ in enumerate(teams)], teams, rotation='vertical')
     axes = plt.gca()
-    plt.title("Sadness Scores")
+    plt.title(sentiment.capitalize() + " Scores")
     plt.xlabel('Team')
     plt.ylabel('Score')
     plt.show()
 
+def main():
+    PlotHistoryScore('joy')
+    PlotHistoryScore('sadness')
 
 main()
