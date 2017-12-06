@@ -35,8 +35,9 @@ def readJSON(team, sentiment):
         if (tweet['Team'] == team):
             numTeamTweets += 1
             if (tweet['Sentiment'].has_key(sentiment)):
-                totalJoy += tweet['Sentiment'][sentiment]
-                numJoy += 1
+                if (tweet['Sentiment'][sentiment] > .75):
+                    totalJoy += tweet['Sentiment'][sentiment]
+                    numJoy += 1
 
     return 1.0 * numJoy / numTeamTweets
 
@@ -55,5 +56,5 @@ def appendJSON(tweet_data):
 
     writeJSON(data)
 
-getSentiment()
-#readJSON()
+#getSentiment()
+print(readJSON("@chicagobulls", "Joy"))
